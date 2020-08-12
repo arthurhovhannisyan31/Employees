@@ -22,6 +22,7 @@
     "passport-local-mongoose": "^5.0.1",
     "request": "^2.88.0",
     "sequelize": "^5.8.7",
+    "socket.io": "^2.3.0",
     "soket.io": "0.0.1-security",
     "url": "^0.11.0"
   }
